@@ -9,8 +9,8 @@
             <image_url>images/logo.png</image_url>            
         </logo>
         <colors>
-            <primary>#278DBD</primary>
-            <secondary>#FF944E</secondary>
+            <primary>#008BC5</primary>
+            <secondary>#12498F</secondary>
             <accent_blue>#407BFF</accent_blue>
             <dark_navy>#1A242F</dark_navy>
             <light_bg>#F8FAFC</light_bg>
